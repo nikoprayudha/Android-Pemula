@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wisata Kota Batu</string>
+    <string name="tour_name">Nama Wisata</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+</resources>
